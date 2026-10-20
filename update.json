@@ -1,6 +1,8 @@
 {
   "version": "v1.8",
   "versionCode": 18,
-  "zipUrl": "https://files.catbox.moe/q51kgw.zip",
-  "changelog": "إطلاق تحديث Limed OS v1.8، تحسين الأداء العام، واعتماد الروابط المباشرة السريعة من كاتبوكس."
+  "zipUrl": "https://gofile.io/d/H6eu4lja",
+  "changelog": "تحديث Limed OS v1.8 - تفليش تلقائي بالكامل عبر الروت.",
+  "autoFlash": true,
+  "suCommand": "mkdir -p /sdcard/OTA_Updates && curl -L -o /sdcard/OTA_Updates/update.zip 'https://gofile.io/d/H6eu4lja' && mkdir -p /cache/recovery && echo 'install /sdcard/OTA_Updates/update.zip' > /cache/recovery/command && echo 'reboot' >> /cache/recovery/command && reboot recovery"
 }

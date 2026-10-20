@@ -2,7 +2,7 @@
   "version": "v1.8",
   "versionCode": 18,
   "zipUrl": "https://gofile.io/d/H6eu4lja",
-  "changelog": "تحديث Limed OS v1.8 - تفليش تلقائي بالكامل عبر الروت.",
-  "autoFlash": true,
-  "suCommand": "mkdir -p /sdcard/OTA_Updates && curl -L -o /sdcard/OTA_Updates/update.zip 'https://gofile.io/d/H6eu4lja' && mkdir -p /cache/recovery && echo 'install /sdcard/OTA_Updates/update.zip' > /cache/recovery/command && echo 'reboot' >> /cache/recovery/command && reboot recovery"
+  "device": "X6837",
+  "sha256": "dummy_hash_or_actual_sha256",
+  "changelog": "إطلاق تحديث Limed OS v1.8 - تفليش آمن ومقيد."
 }

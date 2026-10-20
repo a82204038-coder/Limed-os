@@ -1,6 +1,6 @@
 {
   "version": "v1.8",
-  "versionCode": 8,
-  "changelog": "تحسينات جذرية في أداء الكرنل، تفعيل حماية قسم الإقلاع بشكل حقيقي، وتحديث واجهة Limed OS.",
-  "downloadUrl": "https://files.catbox.moe/8m571u.zip"
+  "versionCode": 18,
+  "zipUrl": "https://files.catbox.moe/q51kgw.zip",
+  "changelog": "إطلاق تحديث Limed OS v1.8، تحسين الأداء العام، واعتماد الروابط المباشرة السريعة من كاتبوكس."
 }
